@@ -1,5 +1,5 @@
 # DataBaseBackups
-Backups de bases de datos MySQL programadas
+Backups de bases de datos MySQL programadas.
 
 ## Archivos:
 Cuando hagas `$ git clone https://github.com/daniel7byte/DataBaseBackups.git`, encontrarás los siguientes archivos:
@@ -40,3 +40,6 @@ Donde usuario y contraseña corresponde a los datos de inicio de sesion
 ### `config_path_mysqldump.txt`
 Este archivo debe contener en su interior la ruta del archivo `mysqldump.exe` que por lo general en XAMPP se encuentra en: `"C:\xampp\mysql\bin\mysqldump.exe"`.
 **Muy Importante!** La ruta debe tener la siguente sitaxis `"ruta"` con las **"comillas"**
+
+## Video Tutorial:
+[![Video Tutorial](https://img.youtube.com/vi/WgMIckBtCwc/0.jpg)](https://www.youtube.com/watch?v=WgMIckBtCwc)
