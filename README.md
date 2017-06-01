@@ -1,7 +1,7 @@
 # DataBaseBackups
 Backups de bases de datos MySQL programadas
 
-## Archivos
+## Archivos:
 Cuando hagas `$ git clone https://github.com/daniel7byte/DataBaseBackups.git`, encontrarás los siguientes archivos:
 
 - :package: DatabaseBackups.exe
